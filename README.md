@@ -4,6 +4,7 @@ Citing this project
 
 If you use this code in your work, please:
 
+```bibtex
 @article{NAJM20191,
 title = "Automated brain extraction from head CT and CTA images using convex optimization with shape propagation",
 journal = "Computer Methods and Programs in Biomedicine",
@@ -25,3 +26,4 @@ url = "http://www.sciencedirect.com/science/article/pii/S016926071930375X"
   year={2014}, 
   publisher={IEEE} 
 }
+```
